@@ -29,5 +29,5 @@ app.use('/api',itemRouter);
 
 
 app.get('/', (req, res) => {
-    res.redirect('https://grey-capsule-909536.postman.co/collections/10301892-c9c07e1e-1910-495f-ad82-98b9e989b85d?version=latest&workspace=9d4a7007-0309-4bef-8010-e1da8f6a5430');
+    res.redirect('https://documenter.getpostman.com/view/10301892/T1DmDJfL');
 })
